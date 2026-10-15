@@ -18,6 +18,9 @@ A party-style spread where nachos are layered directly onto a parchment-lined ta
 
 ### Ingredients:
 
+**Beverage**
+- [ ] Store bought pre-made margaritas
+
 **Seasoned beef**
 - [ ] 900 g ground beef (80/20)
 - [ ] 1 tbsp neutral oil
