@@ -13,6 +13,7 @@ A Mission-style burrito built around carne asada, the grilled, citrus-marinated 
 | Total Time | 1 hour 15 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
+| Spice Level | 🌶️🌶️ |
 | Tags | lunch, dinner, Mexican, Tex-Mex, grilled, beef, handheld |
 
 ### Ingredients:
