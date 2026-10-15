@@ -13,6 +13,7 @@ A party-style spread where nachos are layered directly onto a parchment-lined ta
 | Total Time | 40 minutes |
 | Servings | 8 to 10 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️ |
 | Tags | dinner, party, Tex-Mex, group meal, shareable, game night |
 
 ### Ingredients:

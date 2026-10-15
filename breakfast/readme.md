@@ -13,6 +13,7 @@ A kopitiam breakfast classic from Singapore and Malaysia, popularized by Hainane
 | Total Time | 65 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
+| Spice Level | 🌶️ |
 | Tags | breakfast, Hainanese, Singaporean, Malaysian, make ahead, vegetarian |
 
 ### Ingredients:
