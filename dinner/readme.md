@@ -26,6 +26,7 @@ A party-style spread where nachos are layered directly onto a parchment-lined ta
 - [ ] 2 tsp ground cumin
 - [ ] 1 tsp smoked paprika
 - [ ] 1 tsp dried oregano
+- [ ] 3 cloves of garlic, minced
 - [ ] 1 1/2 tsp salt
 - [ ] 1/2 cup water
 
