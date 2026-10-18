@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: Hainanese Kaya Toast
-- Lunch: Carne Asada Burritos
-- Dinner: Table Nachos
+- Breakfast: [Hainanese Kaya Toast](breakfast/readme.md)
+- Lunch: [Carne Asada Burritos](lunch/readme.md)
+- Dinner: [Table Nachos](dinner/readme.md)
 
 _Notes_
-Updated group decided recipes for the day
+These are the team's chosen recipes and each name links to the full recipe
