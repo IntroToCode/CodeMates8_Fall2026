@@ -25,7 +25,7 @@ A party-style spread where nachos are layered directly onto a parchment-lined ta
 - [ ] 1800 g ground beef (80/20)
 - [ ] 2 tbsp neutral oil
 - [ ] 2 medium onions, finely diced
-- [ ] 6 garlic cloves, minced (or 1 Tbsp jarred minced garlic)
+- [ ] 6 garlic cloves, minced (or 1 tbsp jarred minced garlic)
 - [ ] 4 tbsp chili powder
 - [ ] 4 tsp ground cumin
 - [ ] 2 tsp smoked paprika
